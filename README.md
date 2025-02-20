@@ -1,7 +1,8 @@
 
 <h1 align="center">Hello there 👋</h1>
-![hello-there](https://github.com/user-attachments/assets/9973b1c8-2aec-416e-82d0-e19caacd485f)
+
 <div align="center">
+  <img width="500" src="assets/hello-there.gif"/>
   I am Jardel Brandão dos Santos, a developer seeking to explore new technologies and knowledge 👀. I have worked on several projects using Spring, Node, React, and React Native, some of which are related to PostgreSQL or other databases. I aim to continuously improve my skills and share my learning through the commits made here 😁.
 </div>
 
