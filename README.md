@@ -4,7 +4,7 @@
 <div align="center">
   <img width="500" src="assets/hello-there.gif"/>
   <p>
-    I am Jardel Brandão dos Santos, a developer seeking to explore new technologies and knowledge 👀. I have worked on several projects using Spring, Node, React, and React Native, some of which are related to PostgreSQL or other databases. I aim to continuously improve my skills and share my learning through the commits made here 😁.
+    I am Jardel Brandão dos Santos, a developer seeking to explore new technologies and knowledge. I have worked on several projects using Spring, Node and React, some of which are related to PostgreSQL or other databases. I aim to continuously improve my skills and share my learning through the commits made here 😁.
   </p>
 </div>
 
